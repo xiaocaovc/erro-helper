@@ -1,0 +1,25 @@
+{
+  "name": "erro-helper",
+  "version": "0.1.0",
+  "description": "a error class",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaocaovc/erro-helper.git"
+  },
+  "keywords": [
+    "errorhelper"
+  ],
+  "author": "centercao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaocaovc/erro-helper/issues"
+  },
+  "homepage": "https://github.com/xiaocaovc/erro-helper#readme"
+}
